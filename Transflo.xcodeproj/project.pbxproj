@@ -101,6 +101,11 @@
 		D48147B429E1E78D0057D551 /* Transflo */ = {
 			isa = PBXGroup;
 			children = (
+				D48147EC29E1F7BF0057D551 /* Modules */,
+				D48147EB29E1F7B90057D551 /* Networking */,
+				D48147EA29E1F7B10057D551 /* Resources */,
+				D48147E929E1F77F0057D551 /* Utility */,
+				D48147E829E1F77A0057D551 /* App */,
 				D48147B529E1E78D0057D551 /* AppDelegate.swift */,
 				D48147B729E1E78D0057D551 /* SceneDelegate.swift */,
 				D48147B929E1E78D0057D551 /* ViewController.swift */,
@@ -128,6 +133,41 @@
 				D48147DB29E1E78F0057D551 /* TransfloUITestsLaunchTests.swift */,
 			);
 			path = TransfloUITests;
+			sourceTree = "<group>";
+		};
+		D48147E829E1F77A0057D551 /* App */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		D48147E929E1F77F0057D551 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		D48147EA29E1F7B10057D551 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		D48147EB29E1F7B90057D551 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
+		D48147EC29E1F7BF0057D551 /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Modules;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
